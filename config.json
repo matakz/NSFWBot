@@ -1,1 +1,4 @@
-
+{
+    "token": "Your TOKEN here",
+    "prefix": "Your PREFIX here"
+}
