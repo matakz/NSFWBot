@@ -1,8 +1,4 @@
 discord
-pystyle
-requests
 colorama
-os
 random
 time
-sys
